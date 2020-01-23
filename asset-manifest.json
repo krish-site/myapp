@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/krish-site/myapp/static/js/main.f64e11c0.chunk.js",
+    "main.js.map": "/krish-site/myapp/static/js/main.f64e11c0.chunk.js.map",
+    "runtime-main.js": "/krish-site/myapp/static/js/runtime-main.df51a163.js",
+    "runtime-main.js.map": "/krish-site/myapp/static/js/runtime-main.df51a163.js.map",
+    "static/js/2.d6406216.chunk.js": "/krish-site/myapp/static/js/2.d6406216.chunk.js",
+    "static/js/2.d6406216.chunk.js.map": "/krish-site/myapp/static/js/2.d6406216.chunk.js.map",
+    "index.html": "/krish-site/myapp/index.html",
+    "precache-manifest.ca3df92194413887592c8a586e33e316.js": "/krish-site/myapp/precache-manifest.ca3df92194413887592c8a586e33e316.js",
+    "service-worker.js": "/krish-site/myapp/service-worker.js",
+    "static/js/2.d6406216.chunk.js.LICENSE": "/krish-site/myapp/static/js/2.d6406216.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df51a163.js",
+    "static/js/2.d6406216.chunk.js",
+    "static/js/main.f64e11c0.chunk.js"
+  ]
+}
